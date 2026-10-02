@@ -80,6 +80,3 @@ Supported public-sector communications and digital content initiatives by combin
 - **Community Volunteer & Language Instructor**
 - Data analytics training in Tableau, Power BI, and SQL
 
-## Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/farhaan-pathan)
