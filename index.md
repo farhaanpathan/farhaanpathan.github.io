@@ -37,7 +37,7 @@ Support Amgen's Global Patient Safety Organization, partnering with Signal & Ris
 
 Support Quality Systems within Gilead's Quality Assurance organization, administering enterprise learning systems and partnering with teams across the PDM organization, including External Quality Operations, Analytical Development Operations, Quality Information Systems, and Packaging Engineering Operations, to support employee training, program reporting, and learning initiatives within a regulated pharmaceutical environment.
 
-- Developed a **Power BI** dashboard tracking training completion and user satisfaction, providing Learning & Development leadership with consolidated visibility into program performance and enabling more informed decisions regarding whether to continue or discontinue training initiatives.
+- Developed a Power BI dashboard tracking training completion and user satisfaction, providing Learning & Development leadership with consolidated visibility into program performance and enabling more informed decisions regarding whether to continue or discontinue training initiatives.
 - Analyzed training and user feedback data to identify trends and provide management with actionable insights for program improvement and stakeholder discussions.
 - Partnered with cross-functional stakeholders to design and implement interactive, SCORM-compliant onboarding learning paths incorporating gamification and achievement badges, providing new employees with a more engaging alternative to traditional video-based training.
 - Supported the PDM organization's Decisions@Gilead initiative by providing learning technology and program support to leaders and managers, partnering with IT to resolve user authentication issues during a two-factor authentication transition and ensure seamless participant access.
@@ -78,5 +78,12 @@ Supported public-sector communications and digital content initiatives by combin
 
 - **Event Coordinator & Videographer:** Freelancer
 - **Community Volunteer & Language Instructor**
-- Data analytics training in Tableau, Power BI, and SQL
+- **Data analytics training in Tableau, Power BI, and SQL**
 
+## Projects
+
+### E-Portfolio Development Guide
+
+Developed a personal e-portfolio using GitHub Pages and the Jekyll Minimal theme to showcase my professional experience, education, certifications, and technical skills. Documented the development process, including repository setup, website customization, Markdown formatting, and publishing.
+
+[View E-Portfolio Development Guide](./portfolio-development-guide/)
