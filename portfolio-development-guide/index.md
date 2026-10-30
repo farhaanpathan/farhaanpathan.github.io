@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Portfolio Development Guide
@@ -58,7 +57,7 @@ I customized several settings within the `_config.yml` file to personalize the a
 
 These changes allowed me to personalize the website while maintaining the basic structure and layout provided by the Jekyll Minimal theme.
 
-![Jekyll Configuration](../assets/img/milestone2/jekyll-configuration.png)
+![Jekyll Configuration](../assets/img/Milestone_2/jekyll-configuration.png)
 
 
 
@@ -82,7 +81,7 @@ I added a personal profile image to customize the appearance of the website. The
 
 This customization helped make the e-portfolio more personal and recognizable while maintaining the original layout of the Minimal theme.
 
-![Portfolio Markdown](../assets/img/milestone2/portfolio-markdown.png)
+![Portfolio Markdown](../assets/img/Milestone_2/portfolio-markdown.png)
 
 
 
@@ -108,7 +107,7 @@ This final verification helped ensure that the published website accurately refl
 
 [Visit My E-Portfolio](https://farhaanpathan.github.io)
 
-![Final E-Portfolio](../assets/img/milestone2/final-portfolio.png)
+![Final E-Portfolio](../assets/img/Milestone_2/final-portfolio.png)
 
 
 
